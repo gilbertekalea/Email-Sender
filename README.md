@@ -1,3 +1,3 @@
 # Email-Sender
 
-Zero to Mastery Tutorials
+Zero to Mastery Tutorial
